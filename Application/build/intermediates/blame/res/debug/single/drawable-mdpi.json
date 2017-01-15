@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\MessagingService\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notification_icon.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\MessagingService\\Application\\src\\main\\res\\drawable-mdpi\\notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\MessagingService\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\android_contact.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\MessagingService\\Application\\src\\main\\res\\drawable-mdpi\\android_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\MessagingService\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\MessagingService\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
